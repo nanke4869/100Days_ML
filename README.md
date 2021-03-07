@@ -8,7 +8,7 @@
 
 
 参考：
-[英文版100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [英文版100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 
-[中文版100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [中文版100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
